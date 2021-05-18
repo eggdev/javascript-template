@@ -11,7 +11,7 @@
     "eslint": "^7.26.0",
     "eslint-config-google": "^0.14.0",
     "husky": "^6.0.0",
+    "lerna": "^4.0.0",
     "prettier": "^2.3.0"
-  },
-  "dependencies": {}
+  }
 }
